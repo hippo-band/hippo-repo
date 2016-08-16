@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cloud.igoldenbeta</groupId>
+  <artifactId>hippo-common</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160816153458</lastUpdated>
+  </versioning>
+</metadata>
